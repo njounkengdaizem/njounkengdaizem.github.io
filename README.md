@@ -1,18 +1,25 @@
-# Personal-Website
+## Portfolio Website
+This is a basic portfolio website template built using HTML, CSS, and JavaScript. The website includes a homepage, an "About Me" section, a "Skills" section, an "Experience" section, and a "Contact Me" section.
 
-This website is a summary of some of my personal and professional developments. 
+## Getting Started
+To start using this template, you will need to download the files and open the HTML file in a web browser. The HTML file references a CSS file and a JavaScript file, so make sure they are in the same directory as the HTML file.
 
-## Installation
+## Prerequisites
+To run this template, you will need a web browser and a text editor.
 
-TODO
+## Installing
+To use this template, simply download the files and open the HTML file in a web browser. You can edit the HTML, CSS, and JavaScript files as needed to personalize the website.
 
-## Software Reguirement
+## Resources
+The website uses the following external resources:
 
-TODO
+Google fonts for font styling
+Font Awesome for icons
+CDNJS for library
 
-## Usage
+## Authors
+Daize Njounkeng - DaizeNjounkeng
 
-TODO
-
-## Contributing
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
